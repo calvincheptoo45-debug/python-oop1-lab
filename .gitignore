@@ -1,2 +1,12 @@
 .venv/*
 .pytest_cache/*
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+build/
+dist/
+.vscode/
